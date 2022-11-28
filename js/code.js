@@ -5,6 +5,7 @@ fetch('../data/data.json')
 .then( data => {
     console.table(data.laptops);
 })
-.catch(e => {
+.catch( e => {
     console.log('Could not find the data requested');
+    console.log(`Error: ${e}`);
 })
