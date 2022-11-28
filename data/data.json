@@ -1,0 +1,46 @@
+{
+    "laptops": [
+        {
+            "id": 1,
+            "brand": "Asus",
+            "serialNumber":"A7ZE7-1AH55-WN6LU",
+            "username":"recommendperception"
+        },
+        {
+            "id": 2,
+            "brand": "Lenovo",
+            "serialNumber":"4R3TW-E640C-AQ5MQ",
+            "username":"widgeonstation"
+        },
+        {
+            "id": 3,
+            "brand": "Acer",
+            "serialNumber":"OWY8N-OV1YI-T6KXT",
+            "username":"futtockrid"
+        },
+        {
+            "id": 4,
+            "brand": "HP",
+            "serialNumber":"M8EFD-H727S-10BEG",
+            "username":"nohitterknew"
+        },
+        {
+            "id": 5,
+            "brand": "Mecer",
+            "serialNumber":"AR2XM-9BP9C-MT7H8",
+            "username":"jibegarlic"
+        },
+        {
+            "id": 6,
+            "brand": "MacBook",
+            "serialNumber":"YHXWF-2E57P-8FBOM",
+            "username":"composedsandstone"
+        },
+        {
+            "id": 7,
+            "brand": "Huawei",
+            "serialNumber":"2HYSQ-Y9KZQ-WD9UV",
+            "username":"avariciousmate"
+        }
+    ] 
+}
