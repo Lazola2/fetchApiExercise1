@@ -3,44 +3,51 @@
         {
             "id": 1,
             "brand": "Asus",
-            "serialNumber":"A7ZE7-1AH55-WN6LU",
-            "username":"recommendperception"
+            "serialNumber": "A7ZE7-1AH55-WN6LU",
+            "username": "recommendperception",
+            "price": 8000
         },
         {
             "id": 2,
             "brand": "Lenovo",
             "serialNumber":"4R3TW-E640C-AQ5MQ",
-            "username":"widgeonstation"
+            "username":"widgeonstation",
+            "price": 4000
         },
         {
             "id": 3,
             "brand": "Acer",
             "serialNumber":"OWY8N-OV1YI-T6KXT",
-            "username":"futtockrid"
+            "username":"futtockrid",
+            "price": 6500
         },
         {
             "id": 4,
             "brand": "HP",
             "serialNumber":"M8EFD-H727S-10BEG",
-            "username":"nohitterknew"
+            "username":"nohitterknew",
+            "price": 10000
         },
         {
             "id": 5,
             "brand": "Mecer",
             "serialNumber":"AR2XM-9BP9C-MT7H8",
-            "username":"jibegarlic"
+            "username":"jibegarlic",
+            "price": 8070
         },
         {
             "id": 6,
             "brand": "MacBook",
             "serialNumber":"YHXWF-2E57P-8FBOM",
-            "username":"composedsandstone"
+            "username":"composedsandstone",
+            "price": 13000
         },
         {
             "id": 7,
             "brand": "Huawei",
             "serialNumber":"2HYSQ-Y9KZQ-WD9UV",
-            "username":"avariciousmate"
+            "username":"avariciousmate",
+            "price": 8000
         }
     ] 
 }
